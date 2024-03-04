@@ -4,11 +4,20 @@
 
 https://learn.microsoft.com/pt-br/credentials/
 
+## CUrso Comprados
+
+Geral:
++ (Microsoft Azure: Aprenda do Zero)[https://www.udemy.com/course/microsoft-azure-aprenda-do-zero/]
+
+AZ-900:
++ (Higor Barbosa : AZ-900 | Certificação Microsoft Azure Fundamentals 2023)[https://www.udemy.com/course/az900-fundamentals/]
+
+em 25/11/203 comprei para DP-900 e IA-900
+
 ## Todos os Exames da Azure
 
 1	AI-102: Designing and Implementing a Microsoft Azure AI Solution
 2	AI-900: Microsoft Azure AI Fundamentals
-
 3	AZ-104: Microsoft Azure Administrator
 4	AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop
 5	AZ-204: Developing Solutions for Microsoft Azure
@@ -46,13 +55,14 @@ https://learn.microsoft.com/pt-br/credentials/
 37	SC-400: Administering Information Protection and Compliance in Microsoft 365
 38	SC-900: Microsoft Security, Compliance, and Identity Fundamentals
 
-Quais esou interresados
-+ 
-1	AI-102: (lv2 IA Enginer) Designing and Implementing a Microsoft Azure AI Solution
+## Quais esou interresados:
+
+
 2	AI-900: (lv1) Microsoft Azure AI Fundamentals
 12	AZ-900: (lv1) Microsoft Azure Fundamentals
-14	DP-203: (lv2 Data Enginer) Data Engineering on Microsoft Azure
 16	DP-900: (lv1) Microsoft Azure Data Fundamentals
+1	AI-102: (lv2 IA Enginer) Designing and Implementing a Microsoft Azure AI Solution
+14	DP-203: (lv2 Data Enginer) Data Engineering on Microsoft Azure
 13	DP-100: (lv2 Data Scientitst) Designing and Implementing a Data Science Solution on Azure
 
 
@@ -61,7 +71,7 @@ Quais esou interresados
 + Exprinei de quem fez a prova
   - https://sqlcrespi.com/2020/02/06/minha-opiniao-sobre-a-prova-az900/
 
-## Para CIentista de Dados
+## Para Cientista de Dados
 
 Nivel FUndamental - AI-900
 Nivel Associate - DP-100
@@ -75,7 +85,7 @@ Nivel Intermediariso - Associante
 DP-500
 + PL-300 (PowerBi)
 
-## ENgenheiro de dados
+## Engenheiro de dados
 
 niciantes
 Exame
@@ -96,9 +106,9 @@ AI-102
 ## CONCLUSAO
 
 **1 PASSO**
-AI900 : Exame para CIentista de dados e IA ENginer de nivel 1
-DP900 : Exame basico para anlsita de dados e engenheiro de dados
-AZ900: Basico de CLoud
++ AI900 : Exame para Cientista de dados e IA Enginer de nivel 1
++ DP900 : Exame basico para anlsita de dados e engenheiro de dados
++ AZ900 : Basico de Cloud
 
 **Passo 2**
 Nivel Associate - DP-100 (cientitta)
@@ -108,3 +118,21 @@ DP-500 (analsita de dados geral
 + PL-300 (analista de dados - PowerBi)
 
 
+
+
+
+## Azure e certificados
+
++ Especifico para PL-300
+  - https://www.linkedin.com/posts/ezequielpedreira_microsoft-powerbi-comunidade-activity-7103799136876949505-W3fO?utm_source=share&utm_medium=member_desktop
+
++ Simulado onlinne para todos:
+  - https://www.linkedin.com/posts/fabiohara_voc%C3%AA-sabia-que-pode-fazer-simulados-online-activity-7103331959426158592-LO_A?utm_source=share&utm_medium=member_desktop
+
++ Mudanças (**IMPORATNTE**)
+  - https://www.linkedin.com/posts/ronnanlima_azure-datascience-python-activity-7100800993273032704-nxv-?utm_source=share&utm_medium=member_desktop
+
++ (!!) Exames online de testse das coisas da azure
+  - https://www.linkedin.com/posts/mariele-barbosa_azure-datascience-python-activity-7086643744279527424-w3aW?utm_source=share&utm_medium=member_desktop
+
++ Azure: https://lnkd.in/dsxTD_YV
